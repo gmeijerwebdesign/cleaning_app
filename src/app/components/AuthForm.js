@@ -34,7 +34,7 @@ export default function LoginPage() {
         placeholder="Password"
         type="password"
       />
-      <button onClick={handleLogin}>Login</button>
+      <button onClick={handleLogin}>Loginnn</button>
     </div>
   );
 }
