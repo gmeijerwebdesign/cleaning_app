@@ -8,7 +8,7 @@ export default function Header() {
       </h1>
       <div className="hidden md:flex gap-8 text-md font-light">
         <p className="border-b-2 border-gray-900 h-full">
-          <Link href="/pages">Dashboard</Link>
+          <Link href="/pages">Dashboardd</Link>
         </p>
         <p>
           <Link href="/pages/lists">Lijsten</Link>
